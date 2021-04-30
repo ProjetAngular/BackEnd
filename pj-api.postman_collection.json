@@ -1,0 +1,553 @@
+{
+	"info": {
+		"_postman_id": "eb43bbac-d578-4d35-921b-60d6aaf14dc9",
+		"name": "pj-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Alliances",
+			"item": [
+				{
+					"name": "PUT",
+					"item": [
+						{
+							"name": "Alliances",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/alliances/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"alliances",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Alliances",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/alliances/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"alliances",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Alliances",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/alliances",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"alliances"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Alliances",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/alliances",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"alliances"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Sortileges",
+			"item": [
+				{
+					"name": "PUT",
+					"item": [
+						{
+							"name": "Sortileges",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/sortileges/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"sortileges",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Sortileges",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/sortileges/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"sortileges",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Sortileges",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/sortileges",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"sortileges"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Sortileges",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/sortileges",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"sortileges"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Divinites",
+			"item": [
+				{
+					"name": "PUT",
+					"item": [
+						{
+							"name": "Divinites",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/divinites/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"divinites",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Divinites",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/divinites/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"divinites",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Divinites",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/divinites",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"divinites"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Divinites",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/divinites",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"divinites"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Joueurs",
+			"item": [
+				{
+					"name": "PUT",
+					"item": [
+						{
+							"name": "Joueurs",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/joueurs/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"joueurs",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Joueurs",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/joueurs/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"joueurs",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Joueurs",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/joueurs",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"joueurs"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Joueurs",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/joueurs",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"joueurs"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Monde",
+			"item": [
+				{
+					"name": "PUT",
+					"item": [
+						{
+							"name": "Mondes",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/monde/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"monde",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "DELETE",
+					"item": [
+						{
+							"name": "Mondes",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/mondes/1",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"mondes",
+										"1"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "POST",
+					"item": [
+						{
+							"name": "Mondes",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/mondes",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"mondes"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Mondes",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://grepolisfr.herokuapp.com/mondes",
+									"protocol": "https",
+									"host": [
+										"grepolisfr",
+										"herokuapp",
+										"com"
+									],
+									"path": [
+										"mondes"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		}
+	]
+}
