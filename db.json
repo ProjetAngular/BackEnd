@@ -1,0 +1,50 @@
+{
+    "sortileges":[
+        {
+            "id_sortilege":"01",
+            "nom":"Mariage",
+            "description":"Les nobles arrivent de toutes les terres environnantes pour faire leurs offrandes à la fille du roi qui se marie et à la ville."
+        },
+        {
+            "id_sortilege":"02",
+            "nom":"Satisfaction",
+            "description":"Héra dépose au coeur de la nuit un voile léger, réchauffant les ouvriers assidus et les rafraichissant pendant les chaleurs de midi"
+        }
+    ],
+    "divinites": [
+        {
+            "nom":"Héra",
+            "faveur":"114",
+            "id_divinité":"01",
+            "description":"Elle est l'épouse de Zeus. Héra a bon coeur, elle donne de la force et du courage aux habitants, renforce les mariages et réchauffe les pauvres fermiers au cours des froides journées d'hiver"
+        }
+    ],
+    "alliances": [
+        {
+            "nom":"BadSignal",
+            "nombre_membre":"1/100",
+            "rank_alliance":"364",
+            "description":"lorem ipsum",
+            "id_guild":"01"
+        }
+    ],
+    "joueurs": [
+        {
+            "id":0,
+            "id_guild":"1",
+            "nom":"Atsilak",
+            "rank":"3578",
+            "nombre_ville":"1"
+        }
+    ],
+    "mondes": [
+        {
+            "nom":"Hyélè",
+            "strategie":"Olympus",
+            "description":"Atteindre le mont Olympe",
+            "fin_de_monde":"16/07/2021",
+            "protection":"7",
+            "id_monde":"01"
+        }
+    ]
+}
